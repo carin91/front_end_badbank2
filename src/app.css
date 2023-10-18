@@ -1,0 +1,64 @@
+body{
+    background-color: white;
+}
+
+.prueba1{
+    background-color: blue;
+    padding: 20px;
+}
+
+.container{
+    background-color: white;
+    padding: 10px;
+    border-color: black;
+    border-width: 1rem;
+}
+
+.container1{
+    background-color: blue;
+    padding: 20px;
+
+}
+
+.transaction{
+    width: 300px;
+    height: 50px;
+    padding: 50px;
+    padding-top: 0px;
+}
+
+.form-group{
+    background-color: white;
+    border-color: black;
+    padding: 20px;
+
+}
+
+.HomeDiv{
+    background-color: 7B9E83;
+
+}
+
+.tableAllData{
+    width: 800px;
+    padding: 50px;
+}
+
+.DepositForm{
+    width: 200px;
+    padding: 10px;
+    padding-top: 0px;
+    padding-left: 0px;
+}
+
+.WithdrawForm{
+    width: 200px;
+    padding: 10px;
+    padding-top: 0px;
+    padding-left: 0px;
+}
+
+.pointer1{
+    cursor: pointer;
+}
+
